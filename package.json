@@ -4,7 +4,7 @@
   "description": "coba",
   "main": "index.js",
   "scripts": {
-    "test": "yarn dev"
+    "dev": "node index.js"
   },
   "author": "Muchamad Agus Hermawan",
   "license": "ISC"
